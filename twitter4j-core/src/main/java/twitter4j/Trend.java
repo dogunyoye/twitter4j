@@ -30,4 +30,10 @@ public interface Trend extends java.io.Serializable {
 
     String getQuery();
 
+    /**
+     * The tweet volume for the last 24 hours if availabe, -1 otherwise.
+     *
+     * @return the trend's tweet volume
+     */
+    int getTweetVolume();
 }
