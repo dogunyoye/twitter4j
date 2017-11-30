@@ -1,5 +1,7 @@
 Twitter4J is a Twitter API binding library for the Java language licensed under Apache License 2.0.
 
+https://api.travis-ci.org/dogunyoye/twitter4j.svg?branch=master
+
 Twitter4J includes software from JSON.org to parse JSON response from the Twitter API. You can see the license term at http://www.JSON.org/license.html
 
 LICENSE.txt - the terms of license of this software
